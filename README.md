@@ -1,0 +1,2 @@
+# Customer-Churn-Prediction-System-using-python-its-libraries-Machine-Learning-EDA-SMOTE-Deep-Learning
+Customer Churn Prediction System built with Python, Machine Learning, and Deep Learning. Features EDA, data preprocessing, feature engineering, SMOTE for handling class imbalance, model training, evaluation, and customer churn prediction using Scikit-learn, TensorFlow/Keras, Pandas, NumPy, Matplotlib, Seaborn, and Google Colab.
